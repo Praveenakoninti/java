@@ -1,0 +1,16 @@
+6. List any 5 semantic tags in HTML along with thier descriptions.
+
+
+HTML5 introduced several semantic tags that provide more meaningful structure and improve the accessibility and search engine optimization of web pages. Here are five commonly used semantic tags along with their descriptions:
+
+1. `<header>`: The `<header>` tag represents the introductory content or a container for the introductory content of a section or a page. It typically contains branding elements, navigation menus, site titles, and other related information.
+
+2. `<nav>`: The `<nav>` tag is used to define a section of a document that contains navigation links. It represents a set of navigation options that allow users to move between different pages or sections within a website.
+
+3. `<main>`: The `<main>` tag is used to indicate the main content of a document. It represents the central or most important part of the content that is unique to the document and should be focused on when navigating or extracting information.
+
+4. `<article>`: The `<article>` tag represents a self-contained composition within a document. It is used to encapsulate content that is intended to be independently distributable or reusable, such as blog posts, news articles, forum posts, or product descriptions.
+
+5. `<footer>`: The `<footer>` tag represents a footer or the closing section of a document or a section. It typically contains information about the author, copyright information, contact details, related links, and other supporting information.
+
+By using these semantic tags, developers can provide clearer structure and meaning to the content of their web pages, making it easier for search engines to understand and index the information and improving the overall accessibility and user experience.
