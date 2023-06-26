@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>inline style </title>
+</head>
+<body >
+    <!------create  a webpage with registation form , ussing the CSS attributes selector change the test color of each input filed to any other color--->
+    <style>
+        
+      input[name="name"] {
+        color: blue;
+      }
+
+      input[name="email"] {
+        color: green;
+      }
+
+      input[name="message"] {
+        color: red;
+      }
+    
+      </style>
+    <body>
+      <h1>registation form</h1>
+    
+      <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+    
+        <label for="email">Email:</label>
+        <input type="email" id="email1" name="email" required><br><br>
+    
+        <label for="message">Message:</label><br>
+        <input id="message1" name="message" rows="5" required></textarea><br><br>
+    
+        <input type="submit" value="Submit">
+      </form>
+    
+      <footer>
+        <p>© 2023 Feedback Form. All rights reserved.</p>
+      </footer>
+
+</body>
+</html>
